@@ -13,26 +13,26 @@ This is a simple Password Strength Meter built with Python and Streamlit. It eva
 
 4. Run the Streamlit app using:
 
-streamlit run app.py
+# streamlit run app.py
 
 5. Open your browser and go to https://password-meter-123.streamlit.app/ to access the application.
 
-Features
+# Features
 Password Strength Analysis: Checks password length, character variety, and complexity.
 
-Scoring System:
+. Scoring System:
 
-Weak (1-2)
+.... Weak (1-2)
 
-Moderate (3-4)
+.... Moderate (3-4)
 
-Strong (5)
+.... Strong (5)
 
-Suggestions for Improvement: Provides tips to enhance weak passwords.
+. Suggestions for Improvement: Provides tips to enhance weak passwords.
 
-Password Generator: Automatically creates strong passwords.
+. Password Generator: Automatically creates strong passwords.
 
-Requirements
-Python 3.x
+# Requirements
+. Python 3.x
 
-Streamlit
+. Streamlit
